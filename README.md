@@ -7,20 +7,14 @@
 
 <br><br>
 
- ## Linkedin🔵 ( saiba mais sobre mim )
+ ## Linkedin🔵
  https://www.linkedin.com/in/daniela-almeida-322564203/
  
- ## Instagram🟪 ( Social )
+ ## Instagram🟪 
  https://www.instagram.com/_da.ni.ela/
  
-
-
-
-
-
-
-
-<br><br>
+ 
+<br>
  
  ## Tecnologias que conheço ou estou praticando 🛠
 
