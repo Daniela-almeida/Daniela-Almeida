@@ -7,10 +7,10 @@
 
 <br><br>
 
- ## Linkedin🔵
+ ## Linkedin
  https://www.linkedin.com/in/daniela-almeida-322564203/
  
- ## Instagram🟪 
+ ## Instagram 
  https://www.instagram.com/_da.ni.ela/
  
  
