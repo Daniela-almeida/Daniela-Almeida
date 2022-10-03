@@ -16,7 +16,7 @@
  
 <br>
  
- ## Tecnologias que conheço ou estou praticando 🛠
+ ## Tecnologias 🛠
 
 - Conheço mas estou aprimorando 🤓
 
