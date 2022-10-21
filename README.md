@@ -1,9 +1,22 @@
 ### <h1>Olá, Sou Daniela Almeida💜✌</h1>
 
 
-- 👩‍💻 UX & UI Designer e Futura Desenvolvedora Full Stack
+- 👩‍💻 Desenvolvedora Full Stack e UX & UI Designer 
 
-- ✍ Recentemente estou estudando programação Full Stack na OneBitCode https://onebitcode.com/lp/
+- ✍ Recentemente estou estudando programação Full Stack na OneBitCode https://onebitcode.com/lp/ e também estou fazendo um bootcamp da orangetech na DIO
+
+<br><br>
+
+## Git Hub Analytics📊
+
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Daniela-Almeida&show_icons=true&theme=tokyonight" alt="Daniela-Almeida'stats"/>
+
+<br><br>
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniela-Almeida&layout=compact&theme=tokyonight" alt="DanielaAlmeida's most languages">
+
+
 
 <br><br>
 
@@ -39,9 +52,6 @@ src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logo
 src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 
-
-
-
 <br><br>
 
 
@@ -62,19 +72,6 @@ src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoCo
 
 
 
-
-
-
-<br><br>
-
-
-
-## Cloud☁
-  <img align="center" alt="Azure Functions" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white">
-
-
-
-
 <br><br>
 
 
@@ -86,13 +83,3 @@ src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoCo
 
 
 
-<br><br>
-
-## Git Hub Analytics📊
-
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Daniela-Almeida&show_icons=true&theme=tokyonight" alt="Daniela-Almeida'stats"/>
-
-<br><br>
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniela-Almeida&layout=compact&theme=tokyonight" alt="DanielaAlmeida's most languages">
