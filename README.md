@@ -9,11 +9,6 @@
 
 ## Git Hub Analytics📊
 
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Daniela-Almeida&show_icons=true&theme=tokyonight" alt="Daniela-Almeida'stats"/>
-
-<br><br>
-
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniela-Almeida&layout=compact&theme=tokyonight" alt="DanielaAlmeida's most languages">
 
 
