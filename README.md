@@ -1,7 +1,7 @@
 ### <h1>Olá, Sou Daniela Almeida💜✌</h1>
 
 
-- 👩‍💻 Desenvolvedora Full Stack e UX & UI Designer 
+- 👩‍💻 Desenvolvedora Front end e UX & UI Designer 
 
 - ✍ Recentemente estou estudando programação Full Stack na OneBitCode https://onebitcode.com/lp/ e também estou fazendo um bootcamp da orangetech na DIO
 
