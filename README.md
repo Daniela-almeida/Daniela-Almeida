@@ -1,9 +1,11 @@
-### <h1>Olá, Sou Daniela Almeida💜✌</h1>
+### <h1>Olá. Meu é Daniela, tenho 22 anos💜✌</h1>
 
 
 - 👩‍💻 Desenvolvedora Front end e UX & UI Designer 
 
-- ✍ Recentemente estou estudando programação Full Stack na OneBitCode https://onebitcode.com/lp/ e também estou fazendo um bootcamp da orangetech na DIO
+- ✍ Com uma trajetória dedicada ao aprimoramento na área de desenvolvimento front-end desde 2019, obtive uma especialização em Desenvolvimento de Páginas para Web em 2021. Em 2022, iniciei um curso vitalício de Programação Full Stack na OneBitCode, ampliando meu domínio na área. Em dezembro de 2022, entrei no mercado de trabalho como Desenvolvedora Front-End Júnior, contribuindo para projetos desafiadores até abril de 2023.
+
+Decidi seguir novos rumos e iniciei minha graduação em Sistemas para Internet, buscando complementar teoria e prática. Comprometida com minha formação, busco oportunidades para aplicar minha paixão pelo desenvolvimento web, oferecendo dedicação e entusiasmo para agregar valor a projetos inovadores. Estou aberta a novas oportunidades que permitam meu crescimento profissional.
 
 <br><br>
 
@@ -52,7 +54,7 @@ src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoCo
 <br><br>
 
 
- - Conhecendo e praticando 🧐
+ - Conhecendo 🧐
 
 <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
@@ -71,7 +73,7 @@ src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoCo
 
 
 ## Design🌈
-  <img align="center" alt="Phothosop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+
   
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
