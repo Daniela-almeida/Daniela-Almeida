@@ -4,6 +4,7 @@
 - 👩‍💻 Desenvolvedora Front end e UX & UI Designer 
 
 - ✍ Com uma trajetória dedicada ao aprimoramento na área de desenvolvimento front-end desde 2019, obtive uma especialização em Desenvolvimento de Páginas para Web em 2021. Em 2022, iniciei um curso vitalício de Programação Full Stack na OneBitCode, ampliando meu domínio na área. Em dezembro de 2022, entrei no mercado de trabalho como Desenvolvedora Front-End Júnior, contribuindo para projetos desafiadores até abril de 2023.
+  
      Decidi seguir novos rumos e iniciei minha graduação em Sistemas para Internet, buscando complementar teoria e prática. Comprometida com minha formação, busco oportunidades para aplicar minha paixão pelo desenvolvimento web, oferecendo dedicação e entusiasmo para agregar valor a projetos inovadores. Estou aberta a novas oportunidades que permitam meu crescimento profissional.
 
 <br><br>
