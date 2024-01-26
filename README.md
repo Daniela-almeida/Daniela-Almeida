@@ -1,4 +1,4 @@
-### <h1>Olá. Meu é Daniela, tenho 22 anos💜✌</h1>
+### <h1>Olá. Meu nome é Daniela, tenho 22 anos💜✌</h1>
 
 
 - 👩‍💻 Desenvolvedora Front end e UX & UI Designer 
